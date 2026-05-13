@@ -1,0 +1,5 @@
+Exception in thread "main" java.lang.RuntimeException: Timeout of 120000 reached waiting for exclusive access to file: C:\Users\ÂÞÕ½\.gradle\wrapper\dists\gradle-8.2-bin\bbg7u40eoinfdyxsxr3z4i7ta\gradle-8.2-bin.zip
+	at org.gradle.wrapper.ExclusiveFileAccessManager.access(ExclusiveFileAccessManager.java:65)
+	at org.gradle.wrapper.Install.createDist(Install.java:68)
+	at org.gradle.wrapper.WrapperExecutor.execute(WrapperExecutor.java:102)
+	at org.gradle.wrapper.GradleWrapperMain.main(GradleWrapperMain.java:66)
