@@ -1,5 +1,0 @@
-<resources>
-    <style name="Theme.SimpleProxy" parent="android:Theme.Material.NoActionBar">
-        <item name="android:statusBarColor">@color/black</item>
-    </style>
-</resources>
